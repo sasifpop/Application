@@ -29,6 +29,14 @@
                 "isbn": "0-395-19395-8",
                 "price": 22.99,
 				"ID": 4
+            },
+           {  {
+                "category": "Technology",
+                "author": "Asif Shaikh",
+                "title": "Self Made Techi",
+                "isbn": "0-395-19395-8",
+                "price": 200000.99,
+				"ID": 5
             }
         ]
         

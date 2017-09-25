@@ -36,7 +36,13 @@
                 "title": "Self Made Techi",
                  "price": 200000.99,
 				"ID": 5
-            }
+            },
+
+               "category": "Travalling",
+                "author": "Khyati Desai",
+                "title": "Travel to sweden",
+                 "price": 200000.99,
+				"ID": 6
         ]
         
 }
